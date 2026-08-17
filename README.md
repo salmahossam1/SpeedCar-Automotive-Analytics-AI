@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="car.jpg" alt="SpeedCar Banner" width="100%">
+  <img src="Home.jpg" alt="SpeedCar Banner" width="100%">
 </p>
 
 # 🏎️ SpeedCar — Automotive Performance & AI Analytics Dashboard
