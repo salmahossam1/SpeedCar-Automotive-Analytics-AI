@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="car.jpg" alt="SpeedCar Banner" width="100%">
+</p>
+
 # 🏎️ SpeedCar — Automotive Performance & AI Analytics Dashboard
 
 A high-performance, interactive multi-page **Streamlit** application designed for analyzing car specifications from the UAE/DriveArabia dataset and predicting vehicle Engine Power (**Power (hp)**) using Machine Learning algorithms like **Random Forest**.
@@ -26,14 +30,14 @@ A high-performance, interactive multi-page **Streamlit** application designed fo
 
 ```text
 ├── app.py                            # Main entry point (Landing & Hero Page)
-├── utils.py                          # Data caching, custom UI elements & helpers
-├── requirements.txt                  # Python package dependencies
-├── README.md                         # Project documentation
-├── car.jpg                           # Hero banner background image
-├── DriveArabia_All_uae_updated.csv   # Raw automotive dataset
-├── DriveArabia_handled.csv           # Preprocessed dataset
-├── models/                           # Trained ML models (.joblib binaries)
+├── utils.py                           # Data caching, custom UI elements & helpers
+├── requirements.txt                   # Python package dependencies
+├── README.md                          # Project documentation
+├── car.jpg                            # Hero banner background image
+├── DriveArabia_All_uae_updated.csv    # Raw automotive dataset
+├── DriveArabia_handled.csv            # Preprocessed dataset
+├── models/                            # Trained ML models (.joblib binaries)
 └── pages/
-    ├── 1_Dashboard.py                # Visual analytics & performance KPIs
-    ├── 2_Data_Description.py         # Detailed data engineering pipeline
-    └── 3_Best_Model_Prediction.py    # Live AI horsepower prediction page
+    ├── 1_Dashboard.py                 # Visual analytics & performance KPIs
+    ├── 2_Data_Description.py          # Detailed data engineering pipeline
+    └── 3_Best_Model_Prediction.py     # Live AI horsepower prediction page
