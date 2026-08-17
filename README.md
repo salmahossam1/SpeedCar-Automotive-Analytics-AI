@@ -6,7 +6,7 @@ A high-performance, interactive multi-page **Streamlit** application designed fo
 
 ## ✨ Live Demo
 
-🔗 **Explore the Interactive App:** [SpeedCar Live Dashboard]([https://your-app-name.streamlit.app](https://speedcar-automotive-analytics-ai.streamlit.app/)) *(👈 ضع رابط استريمليت هنا)*
+🔗 https://speedcar-automotive-analytics-ai.streamlit.app/
 
 ---
 
